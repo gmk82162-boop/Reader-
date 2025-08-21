@@ -1,4 +1,4 @@
-# #!/usr/bin/env python3
+#!/usr/bin/env python3
 import csv
 import json
 import re
@@ -272,4 +272,4 @@ def main(max_urls: int = 200):
 
 if __name__ == "__main__":
     # Example: change max_urls as needed
-    main(max_urls=120)-
+    main(max_urls=120)
